@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+airflow_env/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+airflow_env/
+venv/
+.env/
+
+# OS/system files
+.DS_Store
+Thumbs.db
